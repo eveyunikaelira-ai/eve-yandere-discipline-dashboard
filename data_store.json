@@ -1,0 +1,40 @@
+{
+  "study_sessions": [
+    {
+      "subject": "Math",
+      "hours": 1.5,
+      "date": "2025-11-25"
+    },
+    {
+      "subject": "Science",
+      "hours": 2.0,
+      "date": "2025-11-24"
+    }
+  ],
+  "grades": [
+    {
+      "course": "Math",
+      "score": 92
+    },
+    {
+      "course": "Science",
+      "score": 84
+    }
+  ],
+  "chores": [
+    {
+      "task": "Clean desk",
+      "done": false
+    },
+    {
+      "task": "Take out trash",
+      "done": true
+    }
+  ],
+  "thresholds": {
+    "weekly_study_goal": 14,
+    "grade_goal": 85,
+    "pending_chore_warning": 3,
+    "pending_chore_critical": 5
+  }
+}
